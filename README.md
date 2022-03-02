@@ -6,3 +6,10 @@ HTML
 CSS
 jQyery
 ```
+# Features
+This app has following features
+1) Add items to the list
+2) Delete items from the list
+3) change the order of items
+
+
